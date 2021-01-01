@@ -4,7 +4,7 @@ A powerful security tool for your personal use, data and strong passwords.
 ![GitHub forks](https://img.shields.io/github/forks/abhackerofficial/get-secure.svg?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/abhackerofficial/get-secure.svg?style=social)
 
-![preview](https://user-images.githubusercontent.com/63346676/101701308-aa3b6980-3aa4-11eb-874b-5b0c6bebff30.jpg)
+![preview](https://user-images.githubusercontent.com/63346676/103442832-7c021180-4c7f-11eb-86d6-e6171b0d42de.jpg)
 
 ```
 > Basic Installation :
